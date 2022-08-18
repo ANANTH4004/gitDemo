@@ -1,1 +1,2 @@
 created a new branch add a new file
+editing the gitNew.txt file 
